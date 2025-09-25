@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hallo Teman-teman 👋, Namaku Rivaldo
-# Saya seorang mahasiswa di kampus Amikom Yogyakarta
+# Saya seorang mahasiswa di kampus Yogyakarta
 ## 🚀 Tentang Saya
 - 🌱 Currently learning **Web Development** & **AI Enginner**
 - 💻 Passionate about **AI, Machine Learning, and Cybersecurity**

@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hallo Teman-teman 👋, Namaku Rivaldo
+# Hallo Teman-teman 👋, Namaku Aldo
 # Saya seorang mahasiswa di kampus Yogyakarta
 ## 🚀 Tentang Saya
 - 🌱 Currently learning **Web Development** & **AI Enginner**
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Skills
 - **Languages & Frameworks:** HTML, CSS, JavaScript, Tailwind
+- **UI/UX Designer:** FIGMA
 - **Cloud & AI:** Google Cloud (GCP), Vertex AI, Machine Learning
 - **Other Tools:** Git, Linux, Docker, Cisco Packet Tracer, Mikrotik, Visual Studio Code
 

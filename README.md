@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 # Saya seorang mahasiswa di kampus Yogyakarta
 ## 🚀 Tentang Saya
 - 🌱 Currently learning **Web Development** & **AI Enginner**
-- 💻 Passionate about **AI, Machine Learning, and Cybersecurity**
-- 🎮 Also into **Automotive & Gaming (Dota 2, Counter Strike 2, etc.)**
+- 🎮 Also into ** Gaming (Counter Strike 2 only)**
 - ☕ Love coffee and creating digital products
 
 ## 🛠 Skills
